@@ -70,4 +70,4 @@ B C
 ---
 
 ## 👥 Auteur
-- **Radouane Aouini**
+- **Radouane Aouini** — Master Cryptologie, Calcul Haute Performance et Algorithmie (CCA) ([LinkedIn](https://www.linkedin.com/in/radouane-aouini-b14bab348))
